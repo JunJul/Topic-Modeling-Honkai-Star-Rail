@@ -1,4 +1,4 @@
-# Sentiment-Analysis-Honkai-Star-Rail 
+# Sentiment-Analysis-Topic-Modeling-Honkai-Star-Rail 
 
 ### In this project, the objective is to analyze player feedback on Honkai Impact Star Rail by applying LDA, NMF, top2Vec, and bertopic modeling techniques. The analysis focuses on extracting key themes from player reviews, particularly highlighting both complaints and appreciations. To achieve a more nuanced understanding, the reviews have been divided into positive and negative categories, enabling a detailed exploration of the aspects players either criticized or valued. 
 
